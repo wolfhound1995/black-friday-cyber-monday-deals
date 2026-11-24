@@ -89,6 +89,7 @@ We'd greatly appreciate if you could:
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | - | ✅ |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
+| [Termalin](https://termal.in/pricing/?utm_source=bf-greatfrontend&utm_medium=referral&utm_campaign=bf2026) | SSH, SFTP and RDP client that lets ChatGPT and Claude run commands on your servers without SSH keys | **16 months for the price of 12** on yearly Pro ($96, $8 → $6/mo) + 100 GB cloud storage, auto-applied | Ends Dec 1 | ✅ |
 
 ## Books for developers and software engineers
 
